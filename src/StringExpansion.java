@@ -5,7 +5,6 @@ public class StringExpansion {
 
         System.out.println(c1);
         System.out.println(c2);
-        System.out.println("done");
     }
 
 }
